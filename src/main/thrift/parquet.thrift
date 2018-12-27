@@ -507,7 +507,6 @@ struct DataPageHeader {
 }
 
 struct IndexPageHeader {
-  /** TODO: **/
 }
 
 struct DictionaryPageHeader {
